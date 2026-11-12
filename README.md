@@ -60,7 +60,7 @@ Deckt das Telematik-Lehrmittel kapitelweise ab. Rechenaufgaben (Zahlensysteme, S
 
 ## Herunterladen
 
-Unter [Releases](https://github.com/CillX1/QuizDesk/releases/latest):
+Unter [Releases](https://github.com/CillX111/QuizDesk/releases/latest):
 
 | System | Datei |
 | --- | --- |
@@ -91,7 +91,7 @@ Duelle gibt es für alle vier Quizze oben. Die Fragen dafür stehen in `quizzes/
 ## Eigenes Quiz teilen
 
 1. Quiz mit **+ Quiz aus Datei** hinzufügen.
-2. Auf der Karte **Einreichen** klicken. QuizDesk legt eine `.quiz.txt`-Kopie in deinen Downloads ab und öffnet das Formular [Quiz einreichen](https://github.com/CillX1/QuizDesk/issues/new?template=quiz.yml).
+2. Auf der Karte **Einreichen** klicken. QuizDesk legt eine `.quiz.txt`-Kopie in deinen Downloads ab und öffnet das Formular [Quiz einreichen](https://github.com/CillX111/QuizDesk/issues/new?template=quiz.yml).
 3. Datei ins Feld *Quiz-Datei* ziehen und absenden (ein kostenloses GitHub-Konto ist nötig).
 
 Nach der Freigabe erscheint es für alle unter **Entdecken**.

@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const crypto = require('crypto');
 
-const REPO = 'CillX1/QuizDesk';
+const REPO = 'CillX111/QuizDesk';
 const RAW = `https://raw.githubusercontent.com/${REPO}/main/quizzes/`;
 const MAX_BYTES = 5 * 1024 * 1024;
 const TONES = ['mathe', 'netz', 'sql', 'web', 'sprache', 'other'];
